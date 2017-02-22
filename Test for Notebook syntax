@@ -1,0 +1,3 @@
+# Notebook on first day
+1. you can run Python in the cloud using Wakari web-based data analysis, for which you need to create a free acount.(No software installation required!)
+2. First lib is NumPy, providing a bunch of useful array operations(similar to MATLAB). The second lib is Matplotlib, a 2D plotting library which we will use to plot our results.
