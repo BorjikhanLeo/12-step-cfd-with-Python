@@ -1,5 +1,5 @@
 '''
-This program works will in Ipython
+This program works will in Ipython powered by Python3
 Learn from BarbaGroup
 Author Leo
 '''
